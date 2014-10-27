@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://www.msyos.com/msyos_MSYOS.ipa</string>
 				</dict>
+                 <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://www.msyos.com/favicon.ico</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://www.msyos.com/favicon.ico</string>
+                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -22,6 +38,8 @@
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
+                <key>subtitle</key>
+                <string>民生云</string>
 				<key>title</key>
 				<string>民生云</string>
 			</dict>
