@@ -31,7 +31,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ylzinfo.fjsb.ui</string>
+				<string>com.msyos.enterprise.demo</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
